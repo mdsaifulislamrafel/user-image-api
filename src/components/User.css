@@ -1,0 +1,22 @@
+.user-list {
+    border: 5px solid red;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 30px;
+}
+.user-list img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.user-list h1,p {
+    margin: 0;
+    font-weight: bold;
+}
+.user-list span {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+}
