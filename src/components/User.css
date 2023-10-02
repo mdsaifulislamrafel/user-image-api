@@ -1,9 +1,9 @@
 .user-list {
     border: 5px solid red;
-    width: 500px;
-    height: 300px;
+    width: 40%;
     border-radius: 10px;
     margin: 30px;
+    padding: 20px;
 }
 .user-list img {
     width: 150px;
